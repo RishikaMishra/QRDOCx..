@@ -2,7 +2,7 @@
 Overview
 This Python GUI application allows users to generate QR codes, scan existing QR codes, and convert images to text. It’s built using the Tkinter framework, providing an intuitive and user-friendly interface.
 
-Features
+# Features
 QR Code Generator:
 Users can input a link or text.
 The program generates a QR code image in PNG format.
@@ -17,7 +17,7 @@ Users can upload an image containing text (e.g., a photo of a document).
 The application extracts the text from the image using optical character recognition (OCR).
 The extracted text is displayed in a text box.
 
-Installation
+# Installation
 Install Python (if not already installed).
 Install the required libraries:
 Tkinter (for GUI): Tkinter is included with Python, so no additional installation is needed.
